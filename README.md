@@ -15,6 +15,7 @@ Target Outcome: Permanent cortical suppression of S- and M-cone input
 
 Train the brain to ignore green and blue light stimuli through prolonged exposure to red longpass filters, simulating advanced Deuteranopia and Tritanopia, achieving a unique, stable state of functional colorblindness that is self-induced and neurologically adapted.
 
+
 ## Method
 
 Full-time wear of custom longpass red filters that block all wavelengths below ~610nm, ensuring maximal suppression of green and blue input
@@ -23,7 +24,15 @@ Secondary layer using yellow lenses as base frame, with red filters stacked on t
 
 Red-light-friendly environments created for nighttime adaptation, including amber bulbs and warm LEDs
 
-Weekly IPL facial treatments allow for 20–30 minutes of brief exposure to full-spectrum light, carefully monitored and limited
+Weekly breaks for personal reasons for 20–30 minutes of brief exposure to full-spectrum light, carefully monitored and limited
+
+# ⚠️ Important Disclaimer ⚠️
+
+> This repository documents a personal scientific self-experiment involving prolonged spectral deprivation and neural adaptation. The methods described are not intended for replication by the general public and carry potential risks to ocular and neurological health.
+
+I am not a medical professional, and this experiment is conducted for informational and exploratory purposes only. The suppression of visual cone input, particularly through artificial filtering or UV exposure, can lead to permanent vision alteration and unforeseen neurological consequences.
+
+DO NOT attempt to replicate this experiment without medical oversight, professional supervision, and a full understanding of the risks involved. This project is shared for documentation, theoretical discussion, and scientific curiosity only.
 
 
 ## Hypothesis
