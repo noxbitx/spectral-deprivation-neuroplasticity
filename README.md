@@ -69,9 +69,9 @@ Mood, energy, and perception logs stored privately
 
 [x] Custom Lenses Ordered
 
-[ ] Custom Lenses Shipped
+[x] Custom Lenses Shipped
 
-[ ] First Day of Full Filter Wear
+[x] First Day of Full Filter Wear
 
 [ ] First Week Completed
 
