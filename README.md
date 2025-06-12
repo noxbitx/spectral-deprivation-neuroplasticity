@@ -3,9 +3,13 @@
 
 ## Long-Term Color Vision Rewiring via Optical Filtering
 
+
 Author: Noxbit
+
 Start Date: June 2025
+
 Target Duration: 12 months
+
 Target Outcome: Permanent cortical suppression of S- and M-cone input
 
 
