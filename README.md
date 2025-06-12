@@ -1,4 +1,4 @@
-# Spectral-Deprivation-Neuroplasticity
+i# Spectral-Deprivation-Neuroplasticity
 
 
 ## Long-Term Color Vision Rewiring via Optical Filtering
@@ -48,7 +48,7 @@ By starving the brain of S- and M-cone stimuli over a long period, the cortical 
 
 ## Daily Routine Overview
 
-Red filters worn at all times, except during controlled exceptions like IPL Most indoor and outdoor activity filtered Lighting modified when needed to maintain perceptual consistency
+Red filters worn at all times, except during controlled exceptions. Most indoor and outdoor activity filtered Lighting modified when needed to maintain perceptual consistency
 
 
 ---
