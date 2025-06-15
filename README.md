@@ -1,3 +1,4 @@
+
 i# Spectral-Deprivation-Neuroplasticity
 
 
@@ -138,3 +139,9 @@ Objective: Study how the brain maintains suppressed perception after filter remo
 
 To become the first documented case of self-induced non-genetic dual-cone suppression via optical means, contributing to cognitive neuroscience, visual plasticity research and the understanding of brain–perception rewiring in adult humans
 
+Graphs for better understanding: 
+
+![file-61eGS62zWc3kb7PHRAZyc3](https://github.com/user-attachments/assets/0a206f2b-52ca-4680-b587-8e04c79a86a3)
+![file-3xX4vA5ghwjjYpGGvFvruY](https://github.com/user-attachments/assets/01dde5dc-7713-4d26-a805-813d037235ed)
+![file-BsMa4pdCiQAdP8ZfGPoHRS](https://github.com/user-attachments/assets/355a53b9-2306-4e9d-bc12-f5371fd77f14)
+![file-5Jn89uHGX9AiiJipsLx9gQ](https://github.com/user-attachments/assets/9e86a73e-ea17-4dfa-8424-6a10d3243a2a)
