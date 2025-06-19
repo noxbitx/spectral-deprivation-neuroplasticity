@@ -78,7 +78,7 @@ Mood, energy, and perception logs stored privately
 
 [x] First Day of Full Filter Wear
 
-[ ] First Week Completed
+[x] First Week Completed
 
 [ ] Two Weeks Milestone
 
