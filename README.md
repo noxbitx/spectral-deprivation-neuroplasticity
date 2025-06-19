@@ -1,5 +1,5 @@
 
-i# Spectral-Deprivation-Neuroplasticity
+# Spectral-Deprivation-Neuroplasticity
 
 
 ## Long-Term Color Vision Rewiring via Optical Filtering
