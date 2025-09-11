@@ -66,7 +66,7 @@ Mood, energy, and perception logs stored privately
 
 ---
 
-## Progress Checklist
+## Progress Checklist ( Suspended )
 
 [x] Project Initiated
 
