@@ -76,9 +76,9 @@ Mood, energy, and perception logs stored privately
 
 [x] Custom Lenses Shipped
 
-[x] First Day of Full Filter Wear
+[ ] First Day of Full Filter Wear
 
-[x] First Week Completed
+[ ] First Week Completed
 
 [ ] Two Weeks Milestone
 
